@@ -1,0 +1,16 @@
+{
+  "name": "DSC 媒体投放看板 Y2026",
+  "short_name": "DSC看板",
+  "description": "DSC 单品全年数据 · 日期/媒体/素材/人群多维查询看板",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbf4f5",
+  "theme_color": "#8c2c38",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
